@@ -5,7 +5,7 @@ description = "DEDS Virtual Environment"
 authors = [
     {name = "Leftings", email = "leftingss@gmail.com"},
 ]
-dependencies = ["pandas>=2.2.3"]
+dependencies = ["pandas>=2.2.3", "ipykernel>=6.29.5"]
 requires-python = ">=3.12"
 readme = "README.md"
 license = {text = "MIT"}
